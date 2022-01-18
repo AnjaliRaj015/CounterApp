@@ -60,23 +60,5 @@ body{
     color: rgb(0,16,171,0.96); 
     font-size: 40px;
   }
-  @media (max-width: 400px) {
-  body{
-    height:100vh;
-    width:100vh;
-    background:linear-gradient(to bottom right,rgb(0,16,171,0.96),rgb(57,255,243,1)) ;
-}
-.card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    margin:150px 350px 400px 30px;
-    text-align: center;
-    padding: 10px;
-    font-family: 'Poppins', sans-serif;
-    height: 450px;
-    background-color: white;
-    border-radius: 20px;
-  }
-}
-}
-
+ 
 
